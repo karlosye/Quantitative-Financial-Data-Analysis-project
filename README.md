@@ -1,5 +1,5 @@
 
-:chart_with_upwards_trend: # Financial Market Data Analytics project
+# :chart_with_upwards_trend: Financial Market Data Analytics project
 
 **keywords**: S&P500, Costco, Python, dataframe, statistical modelling, maching learning, 
 regression analysis, econometrics
@@ -8,7 +8,7 @@ regression analysis, econometrics
 <br>
 (Image src: media.istockphoto.com)
 
-## Background
+## :bar_chart: Background
 
 **February 19, 2020**, 
 marked the stock market peak before the outbreak of the COVID-19 pandemic.
@@ -31,7 +31,7 @@ will be conducted on the two indices below:
 **Additionally**, an analysis for Costco stock price will be conducted. Key financial numbers such as ROE, P/E Ratio will be gathered for fundemental analysis. 
 Quantitative analysis with regression analysis and machine learning techniques will also be carried out.
 
-## Methods
+## :computer: Methods
 
 Timeframe: 2020-01-01 <--> 2022-11-01
 
@@ -41,7 +41,7 @@ Timeframe: 2020-01-01 <--> 2022-11-01
 - Performed regression analysis and machine learning techniques with Scikit-Learn library
 - And more.....
 
-## Language and Framework
+## :memo: Language and Framework
 
 
 - Language: Python with Jupyter notebook
@@ -54,7 +54,7 @@ Timeframe: 2020-01-01 <--> 2022-11-01
 
 
 
-## Acknowledgement
+## :smiley: Acknowledgement
 If you find this script helpful, please feel free to endorse me on LinkedIn!!
 
 LinkedIn:
