@@ -1,5 +1,5 @@
 
-# Financial Market Data Analytics project
+:chart_with_upwards_trend: # Financial Market Data Analytics project
 
 **keywords**: S&P500, Costco, Python, dataframe, statistical modelling, maching learning, 
 regression analysis, econometrics
