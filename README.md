@@ -52,8 +52,8 @@ Timeframe: 2020-01-01 <--> 2022-11-01
 
 ## :computer: Link to Jupyter notebook
 
-- Stock market analysis: [a relative link](Analytics_1.ipynb)
-- Costco price analysis: 
+- [Stock market analysis](Analytics_1.ipynb)
+- [Costco stock price analysis](Analytics_2.ipynb)
 
 ## :smiley: Acknowledgement
 If you find this script helpful, please feel free to endorse me on LinkedIn!!
