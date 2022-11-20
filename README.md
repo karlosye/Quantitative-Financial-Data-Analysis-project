@@ -50,9 +50,10 @@ Timeframe: 2020-01-01 <--> 2022-11-01
 - [Scikit-Learn](https://scikit-learn.org/stable/)
 - [yFinance](https://pypi.org/project/yfinance/)
 
-## Link to Jupyter notebook
+## :computer: Link to Jupyter notebook
 
-
+- Stock market analysis: [a relative link](Analytics_1.ipynb)
+- Costco price analysis: 
 
 ## :smiley: Acknowledgement
 If you find this script helpful, please feel free to endorse me on LinkedIn!!
