@@ -8,7 +8,7 @@ regression analysis, econometrics
 <br>
 (Image src: media.istockphoto.com)
 
-## :bar_chart: Background
+## :bar_chart: Intro
 
 **February 19, 2020**, 
 marked the stock market peak before the outbreak of the COVID-19 pandemic.
