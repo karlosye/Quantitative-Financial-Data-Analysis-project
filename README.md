@@ -52,7 +52,7 @@ Timeframe: 2020-01-01 <--> 2022-11-01
 
 ## :computer: Link to Jupyter notebook
 
-- [Stock market analysis](Analytics_1.ipynb)
+- [Market indices analysis](Analytics_1.ipynb)
 - [Costco stock price analysis](Analytics_2.ipynb)
 
 ## :smiley: Acknowledgement
