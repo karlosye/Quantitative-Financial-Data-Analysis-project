@@ -35,8 +35,8 @@ Quantitative analysis with regression analysis and machine learning techniques w
 
 Timeframe: 2020-01-01 <--> 2022-11-01
 
-- Use yfinance package to fetch data from Yahoo Finance API
-- Data visualization with line chart and scatterplot
+- Use yfinance package to fetch JSON format data from Yahoo Finance API
+- Data visualization with matplotlib framework
 - Utilized pandas dataframe for organizing data
 - Performed regression analysis and machine learning techniques with Scikit-Learn library
 - And more.....
