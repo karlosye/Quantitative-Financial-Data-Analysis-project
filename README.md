@@ -41,6 +41,9 @@ Timeframe: 2020-01-01 <--> 2022-11-01
 - Performed regression analysis and machine learning techniques with Scikit-Learn library
 - And more.....
 
+![Alt text](/Plots/index_relative.png?raw=true)
+![Alt text](/Plots/EMA_forecast.png?raw=true)
+
 ## :memo: Language and Framework
 
 
